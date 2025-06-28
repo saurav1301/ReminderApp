@@ -13,9 +13,6 @@ An Android app that helps users set daily reminders and alarms with personalized
 - Auto-archiving of completed tasks
 - User profile personalization
 
-## 📸 Screenshots
-(See how to add below)
-
 ## 🚀 How to Run
 1. Clone this repo
 2. Open in Android Studio
